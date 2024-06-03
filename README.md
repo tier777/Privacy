@@ -1,2 +1,2 @@
-# Privacy
-Privacy Policy
+# Privacy Policy
+No data of any kind is collected.
